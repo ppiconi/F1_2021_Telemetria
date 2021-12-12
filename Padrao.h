@@ -1,4 +1,4 @@
-//Graficos Padrão do aplicativo F1 Telemetria
+//Graficos Padrão do aplicativo F1 Telemetria - Teste branch
 class Padrao { //Inicio da Classe
 
 public:
